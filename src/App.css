@@ -1,0 +1,15 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: blue;
+  padding: 1rem;
+}
+
+nav a {
+  color: whitesmoke;
+  padding: .5rem;
+}
+
+.selected {
+  border: 1px solid whitesmoke
+}
